@@ -1,0 +1,46 @@
+.icone {
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+#cliente-esquerda {
+float:left;
+margin-left:20px;
+}
+
+#cliente-direita {
+float:left;
+margin-left:20px;
+
+}
+
+#rodape {
+    clear: both;
+    bottom: 0;          
+    width: 100%;
+  }
+
+#roupa-direita{
+float:left;
+margin-left:20px;
+
+}
+
+#roupa-esquerda{
+float:left;
+margin-left:20px;
+
+}
+
+div.icons{
+border:3px solid black;
+margin:10px;
+padding:10px;
+}
+
+div.imagens{
+border:3px solid black;
+margin:10px;
+padding:10px;
+}
